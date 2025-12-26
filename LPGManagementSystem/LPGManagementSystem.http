@@ -1,0 +1,6 @@
+@LPGManagementSystem_HostAddress = http://localhost:5171
+
+GET {{LPGManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
